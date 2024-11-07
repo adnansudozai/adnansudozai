@@ -13,5 +13,5 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=adnansudozai&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=adnansudozai&label=Profile%20Views&icon=0&pretty=false)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=adnansudozai&label=Profile%20Views&icon=0&pretty=false&count=100)](https://visitcount.itsvg.in)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
